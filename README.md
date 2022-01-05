@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Anshul Ray  <img height="40" src="https://media.discordapp.net/attachments/843916643288612864/928303450318589972/ghost.gif"/></h1>
+<h1 align="center">Hi <img height="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/> , I'm Anshul Ray  <img height="40" src="https://media.discordapp.net/attachments/843916643288612864/928303450318589972/ghost.gif"/></h1>
 <h3 align="center">A passionate learner from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/843916643288612864/928257261858586654/GHg.gif"/>
