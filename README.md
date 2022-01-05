@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Ray</h1>
 <h3 align="center">A passionate learner from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/rayanshul19" target="blank"><img src="https://img.shields.io/twitter/follow/rayanshul19?logo=twitter&style=for-the-badge" alt="rayanshul19" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/843916643288612864/928257261858586654/GHg.gif"/>
 
 - 🔭 I’m currently working on **Blogging Website**
@@ -30,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshul-ray&show_icons=true&locale=en&theme=github_dark" alt="anshul-ray" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anshul-ray&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="anshul-ray" /></p>
+
+<p align="left"> <a href="https://twitter.com/rayanshul19" target="blank"><img src="https://img.shields.io/twitter/follow/rayanshul19?logo=twitter&style=for-the-badge" alt="rayanshul19" /></a> </p>
