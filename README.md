@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://anshul-ray.github.io/portfolio](https://anshul-ray.github.io/portfolio)
+<!--- 👨‍💻 All of my projects are available at [https://anshul-ray.github.io/portfolio](https://anshul-ray.github.io/portfolio)-->
 
 - 📫 How to reach me **rayanshul19@gmail.com**
 
