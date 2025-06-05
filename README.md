@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/843916643288612864/928257261858586654/GHg.gif"/>
 
-- 🔭 I’m currently working on **Blogging Website**
+- 🔭 I’m currently working on **SRE Project**
 
-- 🌱 I’m currently learning **React and MongoDB**
+- 🌱 I’m currently learning **SRE and DevOps**
 
 <!--- 👨‍💻 All of my projects are available at [https://anshul-ray.github.io/portfolio](https://anshul-ray.github.io/portfolio)-->
 
